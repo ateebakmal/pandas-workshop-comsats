@@ -1,7 +1,9 @@
 # pandas-workshop-comsats
-This repository is for sharing necessary stuff with students coming to Pandas workshop help in COMSATS4
+This repository is for sharing necessary stuff with students coming to Pandas workshop that is being held at COMSATS Isb on 10/03/2025
 
-It contain two data sets, everyone who is coming must download these before coming to workshop.
+It contain three data sets, 1 notebook (just for some sample data generation), and a video tutorial for setting up vs code with jupyter notebook.
+
+**Everyone** who is coming must download these before coming to workshop so that no issues occur later.
 
 ### There's a video with all the steps shown. But still i have listed the steps you have to do
 
